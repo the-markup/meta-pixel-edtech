@@ -1,0 +1,33 @@
+organization,domain,bl_domain,ddg_join_ads,cookies,canvas_fingerprinters,session_recorders,key_logging,fb_pixel_events,ga
+ABCmouse,abcmouse.com,https://www.abcmouse.com/abc/,7,3,TRUE,FALSE,FALSE,TRUE,FALSE
+ACT,actstudent.org,https://www.act.org/,17,18,FALSE,TRUE,FALSE,TRUE,TRUE
+Apptegy,apptegy.com,https://www.apptegy.com/,8,9,FALSE,FALSE,FALSE,TRUE,TRUE
+ArbiterSports,hello.students.arbitersports.com,https://hello.students.arbitersports.com/,30,52,FALSE,FALSE,FALSE,TRUE,FALSE
+ClassDojo,classdojo.com,https://www.classdojo.com/,2,2,FALSE,FALSE,FALSE,TRUE,FALSE
+CollegeBoard,collegeboard.org,https://www.collegeboard.org/,1,2,TRUE,FALSE,FALSE,FALSE,FALSE
+Common App,commonapp.org,https://www.commonapp.org/,8,7,FALSE,FALSE,FALSE,TRUE,TRUE
+Duolingo,duolingo.com,https://www.duolingo.com/,8,6,FALSE,FALSE,FALSE,TRUE,TRUE
+Edmentum,edmentum.com,https://www.edmentum.com/,14,22,FALSE,TRUE,FALSE,TRUE,FALSE
+Epic,getepic.com,https://www.getepic.com/,4,13,FALSE,FALSE,FALSE,TRUE,FALSE
+ExploreLearning,explorelearning.com,https://explorelearning.com/,18,34,FALSE,FALSE,FALSE,TRUE,FALSE
+Frontline Education,frontlineeducation.com,https://www.frontlineeducation.com/,9,7,FALSE,FALSE,FALSE,TRUE,TRUE
+Gale,gale.com,https://www.gale.com//,16,19,FALSE,TRUE,FALSE,TRUE,TRUE
+Houghton Mifflin Harcourt,hmhco.com,https://www.hmhco.com/,34,66,FALSE,TRUE,FALSE,TRUE,TRUE
+Illuminate Education,illuminateed.com,https://www.illuminateed.com/,9,15,FALSE,FALSE,FALSE,TRUE,TRUE
+Imagine Learning,imaginelearning.com,https://www.imaginelearning.com/,24,36,FALSE,FALSE,FALSE,TRUE,TRUE
+Jostens,jostens.com,https://www.jostens.com/,11,10,FALSE,FALSE,FALSE,TRUE,TRUE
+LINQ,linq.com/solutions/nutrition/district-nutrition,https://www.linq.com/solutions/nutrition/district-nutrition/,8,12,TRUE,TRUE,TRUE,TRUE,TRUE
+Newsela,newsela.com,https://newsela.com/,8,7,FALSE,FALSE,FALSE,TRUE,TRUE
+NFHS Netowrk,nfhsnetwork.com,https://www.nfhsnetwork.com/,27,54,FALSE,FALSE,FALSE,TRUE,TRUE
+Nutrislice,nutrislice.com,https://nutrislice.com/,7,8,FALSE,TRUE,TRUE,TRUE,FALSE
+ParentSquare,parentsquare.com,https://www.parentsquare.com/,9,8,FALSE,FALSE,FALSE,TRUE,TRUE
+Prezi,prezi.com,https://prezi.com/,10,20,FALSE,TRUE,FALSE,TRUE,TRUE
+Prodigy,prodigygame.com/main-en,https://www.prodigygame.com/main-en/,16,25,FALSE,TRUE,FALSE,TRUE,TRUE
+Raz-Kids,raz-kids.com,https://www.raz-kids.com/,9,17,FALSE,FALSE,FALSE,TRUE,FALSE
+Remind,remind.com,https://www.remind.com/,23,31,FALSE,FALSE,FALSE,TRUE,TRUE
+Renaissance,renlearn.com,https://www.renaissance.com/,9,16,FALSE,FALSE,FALSE,TRUE,FALSE
+SchoolMint,schoolmint.com,https://schoolmint.com/,14,19,FALSE,TRUE,FALSE,TRUE,TRUE
+Smore,smore.com,https://www.smore.com/,12,21,FALSE,FALSE,FALSE,TRUE,FALSE
+VocabularySpellingCity,spellingcity.com,https://www.spellingcity.com/,7,2,FALSE,TRUE,FALSE,TRUE,TRUE
+XtraMath,xtramath.org,https://home.xtramath.org/,8,8,FALSE,FALSE,FALSE,TRUE,FALSE
+Zoom,zoom.us,https://zoom.us/,28,46,FALSE,FALSE,FALSE,TRUE,TRUE
